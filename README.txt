@@ -24,8 +24,9 @@ Jimmy:
 	TOTAL: 13 hours
 
 Kinsey:
-	Monday, April 9th 7:00pm-11:00pm, 4 hours: Project planning/development, Maya tutorials, Maya (wheel)
+	Monday, April 9th 6:00pm-10:00pm, 4 hours: Project planning/development, Maya tutorials, Maya (wheel)
 	Tuesday, April 10th 7:00pm-11:00pm, 4 hours: Maya Tutorials, Maya (wheel, wheelchair)
 	Wednesday, April 11th 2:00pm-12am, 10 hours: Maya (wheelchair), Searching Asset Store for usable models, Learning Git for project collaboration
-	TOTAL: 18 hours
+	Thursday, April 12th 10:00am-11:00am, 1 hour: Helped create project demo for class
+	TOTAL: 19 hours
 		
