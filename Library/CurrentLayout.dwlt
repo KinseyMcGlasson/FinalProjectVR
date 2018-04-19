@@ -107,6 +107,7 @@ MonoBehaviour:
     y: 30
     width: 1280
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 653
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
@@ -115,6 +116,16 @@ MonoBehaviour:
   m_MinSize: {x: 707, y: 492}
   m_MaxSize: {x: 18002, y: 14042}
 >>>>>>> 00a214b... Adding House Model
+=======
+    height: 701
+  m_MinSize: {x: 707, y: 492}
+  m_MaxSize: {x: 18002, y: 14042}
+=======
+    height: 653
+  m_MinSize: {x: 709, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   vertical: 0
   controlID: 26
 --- !u!114 &6
@@ -212,16 +223,28 @@ MonoBehaviour:
     y: 0
     width: 319
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    height: 701
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+=======
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     height: 653
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
+<<<<<<< HEAD
 =======
     height: 701
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
 >>>>>>> 00a214b... Adding House Model
+=======
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_Panes:
   - {fileID: 16}
   m_Selected: 0
@@ -244,16 +267,28 @@ MonoBehaviour:
     y: 0
     width: 286
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    height: 701
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+=======
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     height: 653
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
+<<<<<<< HEAD
 =======
     height: 701
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
 >>>>>>> 00a214b... Adding House Model
+=======
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_Panes:
   - {fileID: 17}
   m_Selected: 0
@@ -424,14 +459,22 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastFramingTime: 7568.751264929771
 =======
   lastFramingTime: 7564.334578990936
 >>>>>>> 00a214b... Adding House Model
+=======
+  lastFramingTime: 7564.334578990936
+=======
+  lastFramingTime: 7568.751264929771
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -1.6070558, y: 0.9975923, z: 5.900769}
     speed: 2
@@ -441,6 +484,16 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -4.7351303, y: 2.3996513, z: 6.91646}
 >>>>>>> 00a214b... Adding House Model
+=======
+    m_Target: {x: -4.7351303, y: 2.3996513, z: 6.91646}
+    speed: 2
+    m_Value: {x: -4.7351303, y: 2.3996513, z: 6.91646}
+=======
+    m_Target: {x: -1.6070558, y: 0.9975923, z: 5.900769}
+    speed: 2
+    m_Value: {x: -1.6070558, y: 0.9975923, z: 5.900769}
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -465,6 +518,17 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    m_Target: {x: 0.08320158, y: 0.91677034, z: -0.2808912, w: 0.27156776}
+    speed: 2
+    m_Value: {x: 0.083199956, y: 0.9167524, z: -0.28088573, w: 0.27156246}
+  m_Size:
+    m_Target: 6.57091
+    speed: 2
+    m_Value: 6.57091
+=======
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     m_Target: {x: 0.34989354, y: -0.079667866, z: 0.029880114, w: 0.932937}
     speed: 2
     m_Value: {x: 0.3498871, y: -0.079666406, z: 0.029879566, w: 0.9329199}
@@ -472,6 +536,7 @@ MonoBehaviour:
     m_Target: 3.9487102
     speed: 2
     m_Value: 3.9487102
+<<<<<<< HEAD
 =======
     m_Target: {x: 0.08320158, y: 0.91677034, z: -0.2808912, w: 0.27156776}
     speed: 2
@@ -481,6 +546,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 6.57091
 >>>>>>> 00a214b... Adding House Model
+=======
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -563,15 +631,23 @@ MonoBehaviour:
   m_StartGridSize: 75
   m_LastFolders:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets
 =======
   - Assets/AnimDoor
 >>>>>>> 00a214b... Adding House Model
+=======
+  - Assets/AnimDoor
+=======
+  - Assets
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
   m_LastFoldersGridSize: 75
   m_LastProjectPath: /Users/administrator/College/FinalProject
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 302a0000
     m_LastClickedID: 10800
@@ -581,6 +657,16 @@ MonoBehaviour:
     m_LastClickedID: 10048
     m_ExpandedIDs: 00000000402700004428000000ca9a3bffffff7f
 >>>>>>> 00a214b... Adding House Model
+=======
+    m_SelectedIDs: 40270000
+    m_LastClickedID: 10048
+    m_ExpandedIDs: 00000000402700004428000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 302a0000
+    m_LastClickedID: 10800
+    m_ExpandedIDs: 00000000302a0000022e000000ca9a3bffffff7f
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,10 +695,17 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000302a0000
 =======
     m_ExpandedIDs: 0000000040270000d4270000
 >>>>>>> 00a214b... Adding House Model
+=======
+    m_ExpandedIDs: 0000000040270000d4270000
+=======
+    m_ExpandedIDs: 00000000302a0000
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,10 +792,17 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ceedffff00000000
 =======
     m_ExpandedIDs: bcf6feff427cffff3efbffff86fbffff00000000
 >>>>>>> 00a214b... Adding House Model
+=======
+    m_ExpandedIDs: bcf6feff427cffff3efbffff86fbffff00000000
+=======
+    m_ExpandedIDs: ceedffff00000000
+>>>>>>> 6aa99e6d844ec89ef664f570d1c8160b25ab72ec
+>>>>>>> aa75af447e31f8adcdbb29fbb22b1000fb7bc13e
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
